@@ -1,4 +1,14 @@
-# Touch Bär
+
+# Terminal Cancer
+# BASED ON Touch Bär
+
+Terminal Cancer has the same license as Touch Bär.
+
+by @f4bul1z3r
+
+pls be careful i dont guarantee this shit even works
+
+
 
 ![](screenshot.png)
 
@@ -12,12 +22,12 @@ DFRSystemModalShowsCloseBoxWhenFrontMost(BOOL);
 +[NSTouchBar presentSystemModalFunctionBar:systemTrayItemIdentifier:]
 ```
 
-## Author
+## # Terminal-CancerAuthor
 
 Alexsander Akers, me@a2.io
 
 ## License
 
 Touch Bär is available under the MIT license. See the LICENSE file for more info.
-# Terminal-Cancer
-# Terminal-Cancer
+
+
