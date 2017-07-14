@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Terminal Cancer.xcscheme</key>
+		<key>TouchBarTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>315408451F17C845004716B6</key>
+		<key>82B24D041E521D6000182A37</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3154085B1F17C846004716B6</key>
+		<key>82B24D171E521D6000182A37</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>315408661F17C846004716B6</key>
+		<key>82B24D221E521D6000182A37</key>
 		<dict>
 			<key>primary</key>
 			<true/>

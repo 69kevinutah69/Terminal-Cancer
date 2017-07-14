@@ -1,18 +1,18 @@
 //
-//  Terminal_CancerTests.m
-//  Terminal CancerTests
+//  TouchBarTestTests.m
+//  TouchBarTestTests
 //
-//  Created by Dan Mateescu on 7/13/17.
-//  Copyright © 2017 Dan Mateescu. All rights reserved.
+//  Created by Alexsander Akers on 2/13/17.
+//  Copyright © 2017 Alexsander Akers. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface Terminal_CancerTests : XCTestCase
+@interface TouchBarTestTests : XCTestCase
 
 @end
 
-@implementation Terminal_CancerTests
+@implementation TouchBarTestTests
 
 - (void)setUp {
     [super setUp];
