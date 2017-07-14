@@ -8,6 +8,19 @@ by @f4bul1z3r
 
 pls be careful i dont guarantee this shit even works
 
+Touch the middle finger button that appears in your control strip to open the list of commands
+
+use the interface to add , edit , and remove commands.
+
+commands are stored in a file that is named with a number
+
+script format
+
+1st line: #Command name (newline)
+rest of lines: your script that is executed
+
+the string on the same line as the hastag on the first line is parsed within the app and is used as the text on the touch bar button to identify which command you are executing.
+
 
 
 ![](screenshot.png)
@@ -22,7 +35,7 @@ DFRSystemModalShowsCloseBoxWhenFrontMost(BOOL);
 +[NSTouchBar presentSystemModalFunctionBar:systemTrayItemIdentifier:]
 ```
 
-## # Terminal-CancerAuthor
+## # Touch Bär Author
 
 Alexsander Akers, me@a2.io
 
