@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3127CB741F0456F7001896FC /* commands.plist in Sources */ = {isa = PBXBuildFile; fileRef = 3127CB731F0456F7001896FC /* commands.plist */; };
-		3127CB781F045A87001896FC /* ico.png in Resources */ = {isa = PBXBuildFile; fileRef = 3127CB771F045A87001896FC /* ico.png */; };
 		82B24D0A1E521D6000182A37 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B24D091E521D6000182A37 /* AppDelegate.m */; };
 		82B24D0D1E521D6000182A37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B24D0C1E521D6000182A37 /* main.m */; };
 		82B24D0F1E521D6000182A37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B24D0E1E521D6000182A37 /* Assets.xcassets */; };
@@ -36,8 +34,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3127CB731F0456F7001896FC /* commands.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = commands.plist; sourceTree = "<group>"; };
-		3127CB771F045A87001896FC /* ico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ico.png; sourceTree = "<group>"; };
 		82B24D051E521D6000182A37 /* Terminal Cancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Terminal Cancer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82B24D081E521D6000182A37 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		82B24D091E521D6000182A37 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,8 +106,6 @@
 				82B24D0E1E521D6000182A37 /* Assets.xcassets */,
 				82B24D351E52206800182A37 /* TouchBar.h */,
 				82B24D101E521D6000182A37 /* MainMenu.xib */,
-				3127CB731F0456F7001896FC /* commands.plist */,
-				3127CB771F045A87001896FC /* ico.png */,
 				82B24D131E521D6000182A37 /* Info.plist */,
 				82B24D0B1E521D6000182A37 /* Supporting Files */,
 			);
@@ -262,7 +256,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3127CB781F045A87001896FC /* ico.png in Resources */,
 				82B24D0F1E521D6000182A37 /* Assets.xcassets in Resources */,
 				82B24D121E521D6000182A37 /* MainMenu.xib in Resources */,
 			);
@@ -291,7 +284,6 @@
 			files = (
 				82B24D0D1E521D6000182A37 /* main.m in Sources */,
 				82B24D0A1E521D6000182A37 /* AppDelegate.m in Sources */,
-				3127CB741F0456F7001896FC /* commands.plist in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
