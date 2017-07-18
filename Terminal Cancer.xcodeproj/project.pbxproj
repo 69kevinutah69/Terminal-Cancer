@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31A8FC651F1DD03E005151AD /* Scripts in Resources */ = {isa = PBXBuildFile; fileRef = 31A8FC641F1DD03E005151AD /* Scripts */; };
 		82B24D0A1E521D6000182A37 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B24D091E521D6000182A37 /* AppDelegate.m */; };
 		82B24D0D1E521D6000182A37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 82B24D0C1E521D6000182A37 /* main.m */; };
 		82B24D0F1E521D6000182A37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B24D0E1E521D6000182A37 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31A8FC641F1DD03E005151AD /* Scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Scripts; sourceTree = "<group>"; };
 		82B24D051E521D6000182A37 /* Terminal Cancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Terminal Cancer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82B24D081E521D6000182A37 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		82B24D091E521D6000182A37 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				82B24D0E1E521D6000182A37 /* Assets.xcassets */,
 				82B24D351E52206800182A37 /* TouchBar.h */,
 				82B24D101E521D6000182A37 /* MainMenu.xib */,
+				31A8FC641F1DD03E005151AD /* Scripts */,
 				82B24D131E521D6000182A37 /* Info.plist */,
 				82B24D0B1E521D6000182A37 /* Supporting Files */,
 			);
@@ -256,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31A8FC651F1DD03E005151AD /* Scripts in Resources */,
 				82B24D0F1E521D6000182A37 /* Assets.xcassets in Resources */,
 				82B24D121E521D6000182A37 /* MainMenu.xib in Resources */,
 			);
