@@ -16,3 +16,9 @@
 
 @end
 
+@interface tableController : NSObject <NSTableViewDataSource>
+@property (weak) IBOutlet NSTableView *T1;
+@property (weak) IBOutlet NSTableView *T2;
+
+
+@end
